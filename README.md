@@ -1,3 +1,3 @@
-# Anomoly-Detection-System
+# Anomaly-Detection-System
 
-Anomoly detection system for use in determining airplane maintenance scheduling.
+Anomaly detection system for use in determining airplane maintenance scheduling.
